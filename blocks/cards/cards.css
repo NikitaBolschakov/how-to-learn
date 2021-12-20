@@ -1,0 +1,13 @@
+.cards {
+    width: 920px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/*6-ой псевдоэлемент, для того, чтобы между 4-ым и 5-ым элементом не было промежутка при использовании space-between*/
+.cards::after {
+    width: 240px;
+    content: "";
+}
