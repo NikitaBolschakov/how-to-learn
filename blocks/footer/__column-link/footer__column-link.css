@@ -9,6 +9,10 @@
     margin: 0 0 10px;
 }
 
+.footer__column-link:hover {
+    opacity: .6;
+    transition: 200ms;
+}
 
 
 

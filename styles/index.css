@@ -55,11 +55,6 @@
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 
-@import url(../blocks/resources/__logo/_name/resources__logo_name_arzamas.css);
-@import url(../blocks/resources/__logo/_name/resources__logo_name_n-1.css);
-@import url(../blocks/resources/__logo/_name/resources__logo_name_polka.css);
-@import url(../blocks/resources/__logo/_name/resources__logo_name_strelka.css);
-
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
@@ -71,13 +66,6 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
-
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_concept.css);
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_main.css);
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_mentors.css);
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_facebook.css);
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_instagram.css);
-@import url(../blocks/footer/__column-link/_name/footer__column-link_name_vk.css);
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
