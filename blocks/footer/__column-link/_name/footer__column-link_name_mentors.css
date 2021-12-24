@@ -1,0 +1,4 @@
+.footer__column-link_name_mentors:hover {
+    opacity: .6;
+    transition: 200ms;    
+}
